@@ -1,4 +1,6 @@
 # ai01
+![image](https://github.com/user-attachments/assets/0f7a6e38-0a68-4b76-a500-dae1dbe670b1)
+
 Buzzcoin ( $BZZZZ ) Official White Paper
 “Shocking the Blockchain, One BZZZZ at a Time”
 
